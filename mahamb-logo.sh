@@ -1,4 +1,4 @@
-echo -e '\x1b[36;1;3m'
+echo -e '\x1b[33m'
 echo -e '                                                                   '
 echo -e ' /MM      /MM  /MMMMMM  /MM   /MM  /MMMMMM  /MM      /MM /MMMMMMM  '
 echo -e '| MMM    /MMM /MM__  MM| MM  | MM /MM__  MM| MMM    /MMM| MM__  MM '
